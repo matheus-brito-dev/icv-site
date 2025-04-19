@@ -1,0 +1,15 @@
+site_name: ICV Salvador
+theme:
+  name: material
+nav:
+  - Início: index.md
+  - Metodologia: metodologia.md
+  - Categorias:
+      - Alimentação: categorias/alimentacao.md
+      - Habitação: categorias/habitacao.md
+      - Transporte: categorias/transporte.md
+  - Análises:
+      - Gráficos: analises/graficos.md
+      - Previsões: analises/previsoes.md
+  - Dashboard: dashboard.md
+  - Publicações: publicacoes.md
